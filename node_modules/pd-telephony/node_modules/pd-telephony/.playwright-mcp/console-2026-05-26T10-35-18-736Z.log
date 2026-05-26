@@ -1,0 +1,16 @@
+[    1195ms] Error: Minified React error #419; visit https://react.dev/errors/419 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+    at https://pd-telephony-adminportal-test.shesha.app/_next/static/chunks/fd9d1056-57f8b9d8c4d3c42c.js:1:64469
+    at lZ (https://pd-telephony-adminportal-test.shesha.app/_next/static/chunks/fd9d1056-57f8b9d8c4d3c42c.js:1:65340)
+    at iZ (https://pd-telephony-adminportal-test.shesha.app/_next/static/chunks/fd9d1056-57f8b9d8c4d3c42c.js:1:121135)
+    at ia (https://pd-telephony-adminportal-test.shesha.app/_next/static/chunks/fd9d1056-57f8b9d8c4d3c42c.js:1:95164)
+    at https://pd-telephony-adminportal-test.shesha.app/_next/static/chunks/fd9d1056-57f8b9d8c4d3c42c.js:1:94986
+    at il (https://pd-telephony-adminportal-test.shesha.app/_next/static/chunks/fd9d1056-57f8b9d8c4d3c42c.js:1:94993)
+    at oZ (https://pd-telephony-adminportal-test.shesha.app/_next/static/chunks/fd9d1056-57f8b9d8c4d3c42c.js:1:91208)
+    at MessagePort.M (https://pd-telephony-adminportal-test.shesha.app/_next/static/chunks/117-c2091fe5577a194b.js:1:84984)
+[    1612ms] [INFO] [2026-05-26T10:35:20.347Z] Information: WebSocket connected to wss://pd-Telephony-api-test.shesha.app/signalr-client?id=PNzC0Jay2RYtDiBD6FAjVg. @ https://pd-telephony-adminportal-test.shesha.app/_next/static/chunks/180-0ad55dc6a64c1f22.js:0
+[    2565ms] [VERBOSE] [DOM] Input elements should have autocomplete attributes (suggested: "current-password"): (More info: https://goo.gl/9p2vKq) %o @ https://pd-telephony-adminportal-test.shesha.app/login:0
+[  353518ms] [INFO] [2026-05-26T10:41:12.253Z] Information: Connection disconnected. @ https://pd-telephony-adminportal-test.shesha.app/_next/static/chunks/180-0ad55dc6a64c1f22.js:0
+[  353569ms] [INFO] [2026-05-26T10:41:12.304Z] Information: WebSocket connected to wss://pd-Telephony-api-test.shesha.app/signalr-client?id=UiQNq8Ss2xuPp4k_hMai0A. @ https://pd-telephony-adminportal-test.shesha.app/_next/static/chunks/180-0ad55dc6a64c1f22.js:0
+[  353820ms] [VERBOSE] [DOM] Input elements should have autocomplete attributes (suggested: "current-password"): (More info: https://goo.gl/9p2vKq) %o @ https://pd-telephony-adminportal-test.shesha.app/no-auth/Shesha/change-password?mode=edit:0
+[  353820ms] [VERBOSE] [DOM] Input elements should have autocomplete attributes (suggested: "new-password"): (More info: https://goo.gl/9p2vKq) %o @ https://pd-telephony-adminportal-test.shesha.app/no-auth/Shesha/change-password?mode=edit:0
+[  353820ms] [VERBOSE] [DOM] Input elements should have autocomplete attributes (suggested: "new-password"): (More info: https://goo.gl/9p2vKq) %o @ https://pd-telephony-adminportal-test.shesha.app/no-auth/Shesha/change-password?mode=edit:0
